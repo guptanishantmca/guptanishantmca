@@ -17,7 +17,7 @@ I'm a software developer with a passion for open-source, web development, and ma
 - **Tools**: Git, Bitbuket
 
 ## Projects
-### [Proppu](https://github.com/guptanishantmca/projectname)
+### [Proppu](https://proppu.com)
 Proppu is an construction plateform where companies and consumer can be server in the same plateform. Both can create offer/Request for the work and material.  
 
 
